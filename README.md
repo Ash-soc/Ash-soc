@@ -4,9 +4,9 @@
 
 I’m building hands-on experience in threat detection, log analysis, and Windows security hardening through practical labs and documented investigations.
 
-My path into cybersecurity hasn’t been linear — and that resilience shows in how I approach security work: calm, methodical, and persistent.
+My path into cybersecurity hasn’t been linear and that resilience shows in how I approach security work: calm, methodical, and persistent.
 
-I focus on understanding the *why* behind alerts, not just closing tickets.
+I focus on understanding the why behind alerts, not just closing tickets.
 
 ### 🔧 Core Focus
 
